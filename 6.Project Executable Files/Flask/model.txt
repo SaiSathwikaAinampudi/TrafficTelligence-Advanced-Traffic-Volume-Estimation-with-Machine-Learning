@@ -1,0 +1,1 @@
+You can access model.pkl file using this link : https://drive.google.com/file/d/1jD3LUTyQNDby9SKknQgooe3ntUsCBCCU/view?usp=sharing
